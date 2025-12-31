@@ -58,15 +58,6 @@ Building AI/ML systems that ship. Background in operations turnarounds — now a
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ges257&show_icons=true&title_color=A78BFA&text_color=A3B8CC&icon_color=A78BFA&bg_color=0D1B2A&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=ges257&background=0D1B2A&ring=A78BFA&fire=A78BFA&currStreakLabel=A3B8CC&sideLabels=A3B8CC&currStreakNum=A78BFA&sideNums=A78BFA&dates=A3B8CC&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-A3B8CC?style=flat-square&logo=gmail&logoColor=0D1B2A)](mailto:gregory.e.schwartz@gmail.com)
