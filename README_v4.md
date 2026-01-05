@@ -84,32 +84,6 @@ I join as a **High-Velocity Architect** who ships novel systems while establishi
 
 ---
 
-## Technical Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.11+-A3B8CC?style=flat-square&logo=python&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-A3B8CC?style=flat-square&logo=pytorch&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/PyG-Graph_Neural_Networks-A3B8CC?style=flat-square&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-A3B8CC?style=flat-square&logo=huggingface&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/LangChain-Orchestration-A3B8CC?style=flat-square&logo=langchain&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/FAISS-Vector_Search-A3B8CC?style=flat-square&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-A3B8CC?style=flat-square&logo=fastapi&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/React-Frontend-A3B8CC?style=flat-square&logo=react&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/Docker-Containers-A3B8CC?style=flat-square&logo=docker&logoColor=0D1B2A" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-A3B8CC?style=flat-square&logo=amazonaws&logoColor=0D1B2A" />
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ges257&show_icons=true&title_color=A78BFA&text_color=A3B8CC&icon_color=A78BFA&bg_color=0D1B2A&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ges257&layout=compact&title_color=A78BFA&text_color=A3B8CC&icon_color=A78BFA&bg_color=0D1B2A&hide_border=true" />
-</div>
-
----
-
 ## Connect
 
 <p align="center">
