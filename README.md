@@ -6,18 +6,18 @@
 
   <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
 
-  <!-- TYPING ANIMATION: 3 rotating phrases -->
+  <!-- TYPING ANIMATION: v1 formatting with current text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&lines=I+know+the+science;I+act+as+a+truth+filter;I+execute+fast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=2000&color=A3B8CC&center=true&vCenter=true&width=600&lines=I+know+the+science;I+act+as+a+truth+filter;I+execute+fast" alt="Typing Animation" />
   </a>
 
 </div>
 
 ---
 
-## Hi, I'm Greg.
+## Hi, I'm Gregory.
 
-### High-Velocity Architect | Research-to-Production Cycle Compressor | AI Engineer
+### High-Velocity Architect | Research-to-Production Cycle Compressor | AI/ML Engineer
 
 I build the systems that *should* exist but don't.
 
