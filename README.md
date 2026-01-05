@@ -66,24 +66,6 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 
 ---
 
-## How I Work: Three Engagement Models
-
-My skillset allows me to deliver value across three engagement types, depending on your organization's needs:
-
-### As a Contractor (Project-Based Execution)
-
-I parachute into a specific problem and build the solution end-to-end. You get a shipped system in weeks, not quarters, with no infrastructure drag.
-
-### As a Consultant (Strategic Guidance)
-
-I act as your **Technical Reality Officer** during AI adoption—filtering hype, reviewing architectures, and preventing expensive failures before you invest.
-
-### As an Employee (Strategic Build + Scale)
-
-I join as a **High-Velocity Architect** who ships novel systems while establishing "Cycle Compression" as a repeatable methodology within your team.
-
----
-
 ## Connect
 
 <p align="center">
