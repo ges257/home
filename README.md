@@ -14,7 +14,7 @@
 
 I build the systems that *should* exist but don't.
 
-Most engineers optimize for writing code. I optimize for **validating architectural bets.** My process is simple but aggressive: I deeply synthesize research, make high-conviction directional calls, and execute rapidly to prove them in production. I don't wait for the "perfect" tool—I identify the gap, architect the solution, and ship it.
+Most engineers optimize for writing code. I optimize for **validating architectural bets.** My process is simple but aggressive: I synthesize deep research, make high-conviction directional calls, and execute rapidly to prove them in production. I don't wait for the "perfect" tool—I identify the gap, architect the solution, and ship it.
 
 I achieve this velocity by aggressively embracing **AI and ML-accelerated workflows**. I don't just use these tools to write boilerplate; I use them to **scale my creative ambition.** But my speed isn't just about tooling—it's about **Theoretical Mastery.**
 
