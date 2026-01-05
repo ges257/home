@@ -6,8 +6,6 @@
 
   <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
 
-  <p><strong>High-Velocity Architect | Research-to-Production Cycle Compressor | AI/ML Engineer</strong></p>
-
 </div>
 
 ---
