@@ -24,6 +24,14 @@ This allows me to operate with the **rigor of a research lab** (because I know t
 
 ---
 
+## The Intersection of Tech & Business
+
+With years of experience as an employee, entrepreneur, and business owner—combined with a Cornell MBA and a Computer Science M.S. in Artificial Intelligence—I bring deep, real-world context to the challenge of building valuable AI solutions.
+
+I identify key business challenges through consultative analysis with leaders, decide exactly if and where AI creates value, and communicate technical concepts effectively to non-technical stakeholders.
+
+---
+
 ## The Three Things I Bring
 
 I bring three capabilities to the table that are rare in combination:
@@ -35,14 +43,6 @@ I bring three capabilities to the table that are rare in combination:
 3. **I Execute Fast.** Once we identify a real opportunity, I use my 'Cycle Compression' methodology to build the solution immediately. I don't need a massive team to test an idea; I use AI acceleration to prototype and ship custom architectures in days.
 
 **You get the Safety of a scientist who knows the limits, and the Speed of a founder who builds the solution.**
-
----
-
-## The Intersection of Tech & Business
-
-With years of experience as an employee, entrepreneur, and business owner—combined with a **Cornell MBA focused on Digital Transformation and Frontier Tech Integration**—I bring deep, real-world context to the challenge of building valuable AI solutions.
-
-I possess the strategic clarity to identify key business challenges through consultative analysis with leaders, decide exactly **if** and **where** AI creates value, and communicate technical concepts effectively to non-technical stakeholders.
 
 ---
 
