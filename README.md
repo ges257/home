@@ -60,9 +60,9 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 
 | The Thesis | The Build |
 | :--- | :--- |
-| **"LLMs are powerful but mathematically context-blind."** | **[Memory Socket](https://github.com/ges257/memory-socket)** — Leveraged deep understanding of transformer attention limits to architect a universal "USB for Neural Inference" storage interface. |
-| **"Vendor consolidation is a graph topology problem, not a semantic search problem."** | **[PE-Rollup-GNN](https://github.com/ges257/pe-rollup-gnn)** — Engineered a Text-to-KG pipeline + R-GCN architecture that achieved **0.94 PR-AUC** by encoding causal logic directly into the graph. |
-| **"Financial audits require symbolic certainty, not probabilistic guessing."** | **[CIRA Audit System](https://github.com/ges257/cira-audit)** — Designed a neuro-symbolic framework that fused LLM flexibility with formal logic, saving a firm from bankruptcy. |
+| **"LLMs are powerful but mathematically context-blind."** | **Memory Socket** — Leveraged deep understanding of transformer attention limits to architect a universal "USB for Neural Inference" storage interface. |
+| **"Vendor consolidation is a graph topology problem, not a semantic search problem."** | **PE Rollup Intelligence Platform** — Engineered a Text-to-KG pipeline + R-GCN architecture that achieved **0.94 PR-AUC** by encoding causal logic directly into the graph. |
+| **"Financial audits require symbolic certainty, not probabilistic guessing."** | **CIRA Audit System** — Designed a neuro-symbolic framework that fused LLM flexibility with formal logic, saving a firm from bankruptcy. |
 
 ---
 
