@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:A78BFA&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 <div align="center">
 
@@ -89,4 +89,4 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
   <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=flat-square&logo=linkedin&logoColor=0D1B2A" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=40&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:A78BFA&height=40&section=footer)
