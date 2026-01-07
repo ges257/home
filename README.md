@@ -1,10 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=50)
-
 <div align="center">
 
-  <h3>AI/ML Engineer & Systems Architect</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&text=Gregory%20E.%20Schwartz&fontSize=50&fontColor=A78BFA&fontAlign=50&fontAlignY=40)
 
-  <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI%2FML+Systems+Architect;Turning+business+pain+points+into+deployable+solutions" alt="Typing SVG" />
+</a>
+
+<!-- Primary CTA Badge -->
+<a href="https://huggingface.co/spaces/ges257/interactive-ai-agent">
+  <img src="https://img.shields.io/badge/🤖_Talk_to_My_AI_Agent-Click_Here-A78BFA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1B2A" />
+</a>
+
+<!-- Tech Stack Icons -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,react,aws&theme=dark" />
+</p>
 
 </div>
 
@@ -66,11 +77,28 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 
 ---
 
+## Selected Projects
+
+| Project | Type | Stack | Access |
+| :--- | :--- | :--- | :--- |
+| **[llm-security-harness](https://github.com/ges257/llm-security-harness)** | 🛡️ Security | Claude API, Python | [**[Demo]**](https://huggingface.co/spaces/ges257/llm-security-harness) • [**[Code]**](https://github.com/ges257/llm-security-harness) |
+| **[interactive-ai-agent](https://github.com/ges257/interactive-ai-agent)** | 🤖 Agent | Claude API, Streamlit | [**[Demo]**](https://huggingface.co/spaces/ges257/interactive-ai-agent) • [**[Code]**](https://github.com/ges257/interactive-ai-agent) |
+| **[sec-10k-rag](https://github.com/ges257/sec-10k-rag)** | 🔍 RAG | LangChain, FAISS | [**[Code]**](https://github.com/ges257/sec-10k-rag) |
+| **[pe-rollup-gnn](https://github.com/ges257/pe-rollup-gnn)** | 📊 GNN | PyTorch Geometric | [**[Demo]**](https://huggingface.co/spaces/ges257/pe-rollup-gnn) • [**[Code]**](https://github.com/ges257/pe-rollup-gnn) |
+| **[causal-synth-engine](https://github.com/ges257/causal-synth-engine)** | 🧬 Synth Data | Python | [**[Code]**](https://github.com/ges257/causal-synth-engine) |
+| **[glass](https://github.com/ges257/glass)** | 📄 Document AI | VLM, Streamlit | [**[Demo]**](https://huggingface.co/spaces/ges257/glass) • [**[Code]**](https://github.com/ges257/glass) |
+| **[pdf-synth-engine](https://github.com/ges257/pdf-synth-engine)** | 📝 Synth Data | Python | [**[Code]**](https://github.com/ges257/pdf-synth-engine) |
+| **[adversary-iq](https://github.com/ges257/adversary-iq)** | 🔒 Proprietary | GPT-4, React | [**[Video]**](#) • [**[Architecture]**](https://github.com/ges257/adversary-iq/blob/main/ARCHITECTURE.md) |
+| **[research-and-publication-reports](https://github.com/ges257/research-and-publication-reports)** | 📚 Research | PDFs | [**[Papers]**](https://github.com/ges257/research-and-publication-reports) |
+| **[coursework](https://github.com/ges257/coursework)** | 🎓 Coursework | Python, R | [**[Code]**](https://github.com/ges257/coursework) |
+
+---
+
 ## Connect
 
 <p align="center">
-  <a href="mailto:gregory.e.schwartz@gmail.com"><img src="https://img.shields.io/badge/Email-A3B8CC?style=flat-square&logo=gmail&logoColor=0D1B2A" /></a>
-  <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=flat-square&logo=linkedin&logoColor=0D1B2A" /></a>
+  <a href="mailto:gregory.e.schwartz@gmail.com"><img src="https://img.shields.io/badge/Email-A3B8CC?style=for-the-badge&logo=gmail&logoColor=0D1B2A" /></a>
+  <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=for-the-badge&logo=linkedin&logoColor=0D1B2A" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=40&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer)
