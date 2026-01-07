@@ -69,7 +69,7 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 ## What I Do
 
 * **First-Principles Exploitation:** I don't just use APIs; I exploit the underlying mechanics of the models. I know what the math allows, so I build what others think is impossible.
-* **Cycle Compression:** I combine this theoretical depth with AI-accelerated workflows to move from "Paper Read" to "Prototype Shipped" in days.
+* **Cycle Compression:** I combine this theoretical depth with AI-accelerated workflows to move from "Paper Read" to "Prototype Shipped" fast.
 * **End-to-End Architecture:** I own the stack—from the NeurIPS-level theory to the React frontend.
 
 ---
