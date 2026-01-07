@@ -12,17 +12,7 @@
 
 ## Selected Projects
 
-| Project | Type | Stack | Access |
-| :--- | :--- | :--- | :--- |
-| [**llm-security-harness**](https://github.com/ges257/llm-security-harness) | Security | Claude API | [Demo](https://huggingface.co/spaces/ges257/llm-security-harness) ‧ [Code](https://github.com/ges257/llm-security-harness) |
-| [**interactive-ai-agent**](https://github.com/ges257/interactive-ai-agent) | Agent | Claude API, Streamlit | [Demo](https://huggingface.co/spaces/ges257/interactive-ai-agent) ‧ [Code](https://github.com/ges257/interactive-ai-agent) |
-| [**sec-10k-rag**](https://github.com/ges257/sec-10k-rag) | RAG | LangChain, FAISS | [Code](https://github.com/ges257/sec-10k-rag) |
-| [**pe-rollup-gnn**](https://github.com/ges257/pe-rollup-gnn) | GNN | PyTorch Geometric | [Demo](https://huggingface.co/spaces/ges257/pe-rollup-gnn) ‧ [Code](https://github.com/ges257/pe-rollup-gnn) |
-| [**glass**](https://github.com/ges257/glass) | Document AI | VLM, Streamlit | [Demo](https://huggingface.co/spaces/ges257/glass) ‧ [Code](https://github.com/ges257/glass) |
-| [**causal-synth-engine**](https://github.com/ges257/causal-synth-engine) | Synth Data | Python | [Code](https://github.com/ges257/causal-synth-engine) |
-| [**pdf-synth-engine**](https://github.com/ges257/pdf-synth-engine) | Synth Data | Python | [Code](https://github.com/ges257/pdf-synth-engine) |
-| [**adversary-iq**](https://github.com/ges257/adversary-iq) | Proprietary | GPT-4, React | [Architecture](https://github.com/ges257/adversary-iq) |
-| [**research-and-publication-reports**](https://github.com/ges257/research-and-publication-reports) | Research | PDFs | [Papers](https://github.com/ges257/research-and-publication-reports) |
+[llm-security-harness](https://github.com/ges257/llm-security-harness) · [interactive-ai-agent](https://github.com/ges257/interactive-ai-agent) · [sec-10k-rag](https://github.com/ges257/sec-10k-rag) · [pe-rollup-gnn](https://github.com/ges257/pe-rollup-gnn) · [glass](https://github.com/ges257/glass) · [causal-synth-engine](https://github.com/ges257/causal-synth-engine) · [pdf-synth-engine](https://github.com/ges257/pdf-synth-engine) · [adversary-iq](https://github.com/ges257/adversary-iq) · [research-and-publication-reports](https://github.com/ges257/research-and-publication-reports)
 
 ---
 
