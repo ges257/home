@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=50)
 
 <div align="center">
 
@@ -7,6 +7,22 @@
   <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
 
 </div>
+
+---
+
+## Selected Projects
+
+| Project | Type | Stack | Access |
+| :--- | :--- | :--- | :--- |
+| [**llm-security-harness**](https://github.com/ges257/llm-security-harness) | Security | Claude API | [Demo](https://huggingface.co/spaces/ges257/llm-security-harness) ‧ [Code](https://github.com/ges257/llm-security-harness) |
+| [**interactive-ai-agent**](https://github.com/ges257/interactive-ai-agent) | Agent | Claude API, Streamlit | [Demo](https://huggingface.co/spaces/ges257/interactive-ai-agent) ‧ [Code](https://github.com/ges257/interactive-ai-agent) |
+| [**sec-10k-rag**](https://github.com/ges257/sec-10k-rag) | RAG | LangChain, FAISS | [Code](https://github.com/ges257/sec-10k-rag) |
+| [**pe-rollup-gnn**](https://github.com/ges257/pe-rollup-gnn) | GNN | PyTorch Geometric | [Demo](https://huggingface.co/spaces/ges257/pe-rollup-gnn) ‧ [Code](https://github.com/ges257/pe-rollup-gnn) |
+| [**glass**](https://github.com/ges257/glass) | Document AI | VLM, Streamlit | [Demo](https://huggingface.co/spaces/ges257/glass) ‧ [Code](https://github.com/ges257/glass) |
+| [**causal-synth-engine**](https://github.com/ges257/causal-synth-engine) | Synth Data | Python | [Code](https://github.com/ges257/causal-synth-engine) |
+| [**pdf-synth-engine**](https://github.com/ges257/pdf-synth-engine) | Synth Data | Python | [Code](https://github.com/ges257/pdf-synth-engine) |
+| [**adversary-iq**](https://github.com/ges257/adversary-iq) | Proprietary | GPT-4, React | [Architecture](https://github.com/ges257/adversary-iq) |
+| [**research-and-publication-reports**](https://github.com/ges257/research-and-publication-reports) | Research | PDFs | [Papers](https://github.com/ges257/research-and-publication-reports) |
 
 ---
 
@@ -73,4 +89,4 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
   <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=flat-square&logo=linkedin&logoColor=0D1B2A" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=40&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=40&section=footer)
