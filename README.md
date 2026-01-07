@@ -6,6 +6,8 @@
 
   <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
 
+[Department of Graduate Computer Science and Engineering (CSE)](https://www.yu.edu/katz/computer-science-engineering) · [M.S. in Artificial Intelligence](https://www.yu.edu/katz/ai)
+
 </div>
 
 ---
