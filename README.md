@@ -10,7 +10,7 @@
 
 ---
 
-## Selected Projects
+## Selected Project Demos & Repos
 
 [llm-security-harness](https://github.com/ges257/llm-security-harness) · [interactive-ai-agent](https://github.com/ges257/interactive-ai-agent) · [sec-10k-rag](https://github.com/ges257/sec-10k-rag) · [pe-rollup-intelligence-system](https://github.com/ges257/pe-rollup-intelligence-system) · [glass](https://github.com/ges257/glass) · [causal-synth-engine](https://github.com/ges257/causal-synth-engine) · [pdf-synth-engine](https://github.com/ges257/pdf-synth-engine) · [adversary-iq](https://github.com/ges257/adversary-iq) · [research-and-publication-reports](https://github.com/ges257/research-and-publication-reports) · [msai-coursework](https://github.com/ges257/msai-coursework)
 
