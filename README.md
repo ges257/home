@@ -62,7 +62,7 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 | :--- | :--- |
 | **"LLMs are powerful but mathematically context-blind."** | **Memory Socket** — Leveraged deep understanding of transformer attention limits to architect a universal "USB for Neural Inference" storage interface. |
 | **"Vendor consolidation is a graph topology problem, not a semantic search problem."** | **PE Rollup Intelligence Platform** — Engineered a Text-to-KG pipeline + R-GCN architecture that achieved **0.94 PR-AUC** by encoding causal logic directly into the graph. |
-| **"Financial audits require symbolic certainty, not probabilistic guessing."** | **CIRA Audit System** — Designed a neuro-symbolic framework that fused LLM flexibility with formal logic, saving a firm from bankruptcy. |
+| **"Financial audits require symbolic certainty, not probabilistic guessing."** | **CIRA Audit System** — Architected expert system codifying decision logic into executable compliance rules using symbolic reasoning and deterministic state machines, preventing bankruptcy of a 35-year firm. |
 
 ---
 
