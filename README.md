@@ -14,7 +14,7 @@
 
 ## Selected Project Demos & Repos
 
-[LLM Security Harness](https://github.com/ges257/llm-security-harness) · [Interactive AI Agent](https://github.com/ges257/interactive-ai-agent) · [SEC 10-K RAG System](https://github.com/ges257/sec-10k-rag) · [PE Rollup Intelligence Platform](https://github.com/ges257/pe-rollup-intelligence-system) · [GLASS](https://github.com/ges257/glass) · [Synthetic Data Engine (Market)](https://github.com/ges257/causal-synth-engine) · [Synthetic Data Engine (PDF)](https://github.com/ges257/pdf-synth-engine) · [AdversaryIQ](https://github.com/ges257/adversary-iq) · [Research & Publications](https://github.com/ges257/research-and-publication-reports) · [M.S. AI Coursework](https://github.com/ges257/msai-coursework)
+[LLM Security Harness](https://github.com/ges257/llm-security-harness) · [Interactive AI Agent](https://github.com/ges257/interactive-ai-agent) · [SEC 10-K RAG System](https://github.com/ges257/sec-10k-rag) · [PE Rollup Intelligence Platform](https://github.com/ges257/pe-rollup-intelligence-system) · [GLASS | Geometric Layout Analysis & Structuring System](https://github.com/ges257/glass) · [Synthetic Data Engine (Market)](https://github.com/ges257/causal-synth-engine) · [Synthetic Data Engine (PDF)](https://github.com/ges257/pdf-synth-engine) · [AdversaryIQ](https://github.com/ges257/adversary-iq) · [Research & Publications](https://github.com/ges257/research-and-publication-reports) · [M.S. AI Coursework](https://github.com/ges257/msai-coursework)
 
 ---
 
