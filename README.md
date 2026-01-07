@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=120&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=150&text=Gregory%20E.%20Schwartz&fontSize=40&fontColor=A78BFA&fontAlign=50&fontAlignY=35&desc=Cornell%20MBA%20%7C%20M.S.%20in%20Artificial%20Intelligence&descSize=18&descAlign=50&descAlignY=60)
 
 <div align="center">
 
