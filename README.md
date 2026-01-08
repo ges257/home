@@ -77,8 +77,8 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 ## Connect
 
 <p align="center">
-  <a href="mailto:gregory.e.schwartz@gmail.com"><img src="https://img.shields.io/badge/Email-A3B8CC?style=flat-square&logo=gmail&logoColor=0D1B2A" /></a>
-  <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=flat-square&logo=linkedin&logoColor=0D1B2A" /></a>
+  <a href="mailto:gregory.e.schwartz@gmail.com"><img src="https://img.shields.io/badge/Email-A3B8CC?style=for-the-badge&logo=gmail&logoColor=0D1B2A" /></a>
+  <a href="https://linkedin.com/in/gregory-e-schwartz"><img src="https://img.shields.io/badge/LinkedIn-A3B8CC?style=for-the-badge&logo=linkedin&logoColor=0D1B2A" /></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=40&section=footer)
