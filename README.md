@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3>AI/ML Engineer & Systems Architect</h3>
+  <h3>AI Engineer | ML Engineer | Systems Architect | Business Strategy</h3>
 
   <p><em style="color: #A78BFA;">"I research deeply, decide quickly, and build immediately. Where others spend months evaluating, I spend days proving."</em></p>
 
