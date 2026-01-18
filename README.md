@@ -74,6 +74,12 @@ I don't rely on "gut feel." My technical taste is derived from a **First-Princip
 
 ---
 
+## Original Research
+
+[![Memory Socket Research](assets/memory-socket-research.png)](https://github.com/ges257/research-and-publication-reports)
+
+---
+
 ## Connect
 
 <p align="center">
